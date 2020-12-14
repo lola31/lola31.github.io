@@ -1,0 +1,69 @@
+<STYLE TYPE="text/css">
+<!--
+BODY { color: 	#000000; background-color: 	#808080; }
+-->
+
+<head> 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<html><P> <FONT </FONT> <FONT size="5">Hoi, Welkom op mijn website. Ik ben lola en ik beoordeel hotels waar ik op vakantie ben geweest. Ik kijk hierbij naar de ligging, eten, toegankelijkheid, activiteiten en het personeel. Ik wil jullie informatie bijbrengen van de hotels op persoonlijke ervaringen. Ik hoop dat jullie deze ervaringen meenemen in het kiezen van een vakantie. Hieronder heb ik een kleine lijst gemaakt van de hotels waar ik dit jaar heen ben geweest en waarom ik ze dat cijfer heb gegeven.</FONT></P>
+
+<h2>overzicht vakanties</h2>
+
+<table>
+  <tr>
+    <th>hotel</th>
+    <th>plaats</th>
+    <th>rating</th>
+  </tr>
+  <tr>
+    <td>sueno beach</td>
+    <td>side, turkije</td>
+    <td>8,8/10: is mooi gelegen en heel leuk hotel met veel activiteiten, maar het is aan de prijzige kant</td>
+  </tr>
+  <tr>
+    <td>atlantis hotel</td>
+    <td>kos</td>
+    <td>8,3/10: het is mooi gelegen, heel lekker eten en goede prijs maar in de avond is er niet veel te doen</td>
+  </tr>
+  <tr>
+    <td>blue lagoon resort</td>
+    <td>kos</td>
+    <td>9,0/10: mooi resort met goeie kamers en er is veel te doen in de avond. het is een goede prijs, maar je moet een stukje lopen naar het strand </td>
+  </tr>
+  <tr>
+    <td>h10 Hotel</td>
+    <td>mallorca</td>
+    <td>7,2/10: het was goed gelegen en de kamers waren goed, maar er was niks te doen in de avond en het was een beetje klein</td>
+  </tr>
+  <tr>
+    <td>olympia apartments</td>
+    <td>kos</td>
+    <td>7,1/10: het was een mooi appartement en het eten was erg lekker. Het strand was een stukje fietsen en het was een beetje aan de kleine kant</td>
+  </tr>
+  <tr>
+    <td>titanic beach lara</td>
+    <td>Antalya, Turkije</td>
+    <td>8,5/10: mooi hotel en redelijke ligging, er is genoeg te doen in de avond en het personeel is aardig. Het is aan de prijzige kant</td>
+  </tr>
+</table>
+<a href=""
+</body> 
+
